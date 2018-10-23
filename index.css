@@ -7,3 +7,14 @@ h5{
     font-family: monospace;
     font-size: 40px;
 }
+h6 {
+    border-style: dashed;
+    border-width: 3px;
+    border-left-width: 3px;
+    border-color: red;
+}
+p {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    
+}
